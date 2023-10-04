@@ -1,0 +1,14 @@
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\net7.0\IterationExercise.exe
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\net7.0\IterationExercise.deps.json
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\net7.0\IterationExercise.runtimeconfig.json
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\net7.0\IterationExercise.dll
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\net7.0\IterationExercise.pdb
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.AssemblyInfoInputs.cache
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.AssemblyInfo.cs
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.dll
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\refint\IterationExercise.dll
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.pdb
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\IterationExercise.genruntimeconfig.cache
+C:\Users\ericg\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\net7.0\ref\IterationExercise.dll
